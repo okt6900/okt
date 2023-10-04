@@ -1,0 +1,38 @@
+.flex-container {
+    display: flex;
+    max-width: 1200px;
+    background-color: rgb(224, 224, 224);
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+.flex-article {
+    background-color: rgb(255, 248, 225);
+    width: 70%;
+    border: 1px solid rgb(255, 248, 225);
+    padding-top: 10px;
+}
+
+.flex-another2 {
+    background-color: rgb(250, 223, 133);
+    border: 1px solid rgb(250, 223, 133);
+}
+.flex-another1 {
+    display: inline-block;
+    width: 49%;
+    background-color: rgb(250, 223, 133);
+    border: 1px solid rgb(250, 223, 133);   
+}
+
+.flex-aside {
+    background-color: rgb(220, 237, 200);
+    border: 1px solid rgb(220, 237, 200);
+    width: 30%;
+}
+
+.flex-footer {
+    border: 10px solid white;
+    background-color: white;
+}
